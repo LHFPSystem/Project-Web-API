@@ -1,0 +1,14 @@
+D:\Docker\Project Web API\bin\Debug\netcoreapp2.1\Project Web API.deps.json
+D:\Docker\Project Web API\bin\Debug\netcoreapp2.1\Project Web API.runtimeconfig.json
+D:\Docker\Project Web API\bin\Debug\netcoreapp2.1\Project Web API.runtimeconfig.dev.json
+D:\Docker\Project Web API\bin\Debug\netcoreapp2.1\Project Web API.dll
+D:\Docker\Project Web API\bin\Debug\netcoreapp2.1\Project Web API.pdb
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.csprojAssemblyReference.cache
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.csproj.CoreCompileInputs.cache
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.RazorAssemblyInfo.cache
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.RazorAssemblyInfo.cs
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.AssemblyInfoInputs.cache
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.AssemblyInfo.cs
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.RazorTargetAssemblyInfo.cache
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.dll
+D:\Docker\Project Web API\obj\Debug\netcoreapp2.1\Project Web API.pdb
